@@ -14,4 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a highly motivated and results-driven data analyst with expertise in data analysis, machine learning, and data visualization. Skilled in utilizing tools such as Python and Power BI, I am adept at transforming raw data into insightful, actionable reports. My experience in analyzing complex data, identifying patterns and trends, and building predictive models enables me to summarize key findings that drive business decisions. I am committed to leveraging my technical proficiency and analytical thinking to increase efficiency and contribute effectively to data-driven projects and organizational success
+I am a Data Analyst and Data Scientist with a passion for transforming raw data into valuable insights. I specialize in analyzing complex datasets, uncovering trends, and providing strategic recommendations that help businesses make informed decisions.
+
+I rely on data-driven methodologies to drive business success and innovation. Through my analytical skills and attention to detail, I strive to empower organizations to fully leverage their data potential, giving them a competitive edge in today’s dynamic market.
+
+Skills:
+Data analysis and insight extraction
+Utilizing advanced data analytics tools
+Developing data-driven strategies
+Performance optimization and data-driven decision-making
+Vision:
+My goal is to add value to every project I work on and support clients in achieving their objectives through data.
