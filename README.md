@@ -19,9 +19,10 @@ I am a Data Analyst and Data Scientist with a passion for transforming raw data 
 I rely on data-driven methodologies to drive business success and innovation. Through my analytical skills and attention to detail, I strive to empower organizations to fully leverage their data potential, giving them a competitive edge in today’s dynamic market.
 
 Skills:
-. Data analysis and insight extraction
-. Utilizing advanced data analytics tools
-. Developing data-driven strategies
-. Performance optimization and data-driven decision-making
+- Data analysis and insight extraction
+- Utilizing advanced data analytics tools
+- Developing data-driven strategies
+- Performance optimization and data-driven decision-making
+
 Vision:
 My goal is to add value to every project I work on and support clients in achieving their objectives through data.
